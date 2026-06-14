@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 📺 CSS-TV
 
 > A retro-inspired television built entirely with HTML and CSS, showcasing the power of modern web technologies and creative frontend development.
